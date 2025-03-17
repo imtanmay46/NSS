@@ -2,7 +2,8 @@
 
 Instructions/Commands to run the programs... ->
 
-**S I M P L E     S U D O**
+**S I M P L E\
+S U D O**
 
 sudo tee /usr/local/bin/root_test_script.sh <<EOF
 #!/bin/bash
