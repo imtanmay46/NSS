@@ -35,7 +35,10 @@ touch test
 ./my_sudo /etc/passwd
 
 
-**L I N U X   A C C E S S   C O N T R O L   L I S T S**
+**L I N U X\
+A C C E S S\
+C O N T R O L\
+L I S T S**
 
 useradd -m amit
 useradd -m narender
