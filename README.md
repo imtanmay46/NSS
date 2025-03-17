@@ -1,6 +1,8 @@
-NSS A1 Demo
+**NSS A1 Demo**
 
-SUDO
+Instructions/Commands to run the programs... ->
+
+**S I M P L E   S U D O**
 
 sudo tee /usr/local/bin/root_test_script.sh <<EOF
 #!/bin/bash
@@ -32,8 +34,7 @@ touch test
 ./my_sudo /etc/passwd
 
 
-ACLs
-
+**L I N U X   A C C E S S   C O N T R O L   L I S T S**
 
 useradd -m amit
 useradd -m narender
